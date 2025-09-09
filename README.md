@@ -18,23 +18,19 @@ row3(for company C) = 3p + 1q + 3r = 18
 
 
 import numpy as np
+
 df = np.matrix([[2,1,3],[1,2,3],[3,1,3]])
 
 print(df) #representation.
 
-print()
-
 print(df.ndim)
-
-print()
 
 print(df.dtype)
 
-print()
-
 print(df.shape)
-print()
 
 print(f"Company_A:{df[0]}=14")
+
 print(f"Company_B:{df[1]}=17")
+
 print(f"Company_C:{df[2]}=18")
