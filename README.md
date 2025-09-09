@@ -17,9 +17,10 @@ row2(for company B) = 1p + 2q + 3r = 17
 row3(for company C) = 3p + 1q + 3r = 18 
 
 
-import numpy as np
+# import numpy as np
 
-df = np.matrix([[2,1,3],[1,2,3],[3,1,3]])
+#df = np.matrix([[2,1,3],
+      [1,2,3],[3,1,3]])
 
 print(df) #representation.
 
