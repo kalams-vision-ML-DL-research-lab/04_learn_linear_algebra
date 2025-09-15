@@ -1,5 +1,5 @@
 # Linear_algebra 
-# started 1st year.
+#Started: 1st year. Author ~Omkar Vibhute, Researcher at Kalaml's Vision ML/DL research Lab. 
 
 #The most important topic of the mathematicss for ML world. 
 #Real world intutational conceptes to underatand the foundational linear algebara for machine lerning. 
